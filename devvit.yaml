@@ -1,0 +1,7 @@
+name: Trade Routes
+version: 0.1.0
+applicationID: trade-routes-game
+permissions:
+  - read
+  - write
+  - kvstore 

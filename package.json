@@ -1,0 +1,19 @@
+{
+  "name": "trade-routes-game",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "devvit dev",
+    "build": "devvit build",
+    "test": "devvit test"
+  },
+  "dependencies": {
+    "@devvit/public-api": "0.10.17"
+  },
+  "devDependencies": {
+    "@devvit/cli": "0.10.17",
+    "@types/node": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+} 
